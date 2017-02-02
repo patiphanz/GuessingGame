@@ -1,4 +1,4 @@
-package guessingGame;
+package guessinggame;
 
 /**
  * This is MainClass of the game.
