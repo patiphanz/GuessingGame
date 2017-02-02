@@ -1,4 +1,4 @@
-package oop4_guessing_game;
+package guessingGame;
 
 import java.util.Random;
 /**
